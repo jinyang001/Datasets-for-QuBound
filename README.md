@@ -11,8 +11,8 @@ Submitted to *IEEE TCAD*, 2024.
 
 This dataset includes circuit-specific performance traces and noise parameters collected from IBM Quantum cloud backends. It supports two types of performance metrics used in our experiments:
 
-* **Observable-based Performance** → Table IV in the paper
-* **Probability-based Performance** → Table II in the paper
+* **Observable-based Performance** → Table VII in the paper
+* **Probability-based Performance** → Table IV in the paper
 
 ---
 
